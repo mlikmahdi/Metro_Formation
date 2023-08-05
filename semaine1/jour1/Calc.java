@@ -5,7 +5,6 @@ import java.util.Scanner;
 import java.util.ArrayList;
 import java.util.List;
 
-
 public class Calc {
 
     // définition du point d'entrée du programme en JAVA avec la méthode main()
