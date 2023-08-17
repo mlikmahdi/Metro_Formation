@@ -1,4 +1,4 @@
-package semaine1.jour3;
+package semaine1.jour3.musique;
 
 abstract class Instrument {
     abstract void jouer();
